@@ -80,7 +80,7 @@ cd HMCV_final
 
 2. Устанавливаем зависимости:
 ```bash
-pip install python-telegram-bot==20.3 ultralytics opencv-python numpy<2
+pip3 --no-cache-dir install -r requirements.txt
 ```
 
 3. Запускаем бота:
